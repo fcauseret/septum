@@ -9,5 +9,5 @@ Andrzej W Cwetsch, Javier Gilabert-Juan, Sofia Ferreira, Matthieu X Moreau, Yoan
 - Cells' metadata can be retreived [here](./Metadata/)  
 
 
-## Code for cell quality control
+## R code for cell quality control
 [Cell quality control](./QualityControl/Septum_QC.html)  
