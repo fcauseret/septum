@@ -3,10 +3,8 @@ This page is related to the article:
 Andrzej W Cwetsch, Javier Gilabert-Juan, Sofia Ferreira, Matthieu X Moreau, Yoann Saillour, Elodie Delberghe, Jose González Martínez, Stéphane Nedelec, Ugo Borello, Sophie Thomas, Frédéric Causeret, Alessandra Pierani
 
 ## Links to raw data and metadata (to be updated upon final publication)
-- Raw count matrix are deposited in XXX (Accession number) and can be dowloaded [here (inactive link)]()  
-- Sequencing reads are available [here (inactive link)]()
-- Filtered count matrix can be downloaded [here (inactive link)]()
-- Cells' metadata can be retreived [here](./Metadata/)  
+- Raw count matrix are deposited in GEO (Accession number XXX) and can be dowloaded [here (inactive link)]()  
+- Cells' metadata can be retreived [here](https://github.com/fcauseret/septum/tree/main/Metadata)  
 
 
 ## R code for cell quality control
