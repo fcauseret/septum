@@ -10,4 +10,4 @@ For a user-friendly exploration of the data, consider our [Shiny App](https://ap
 
 
 ## R code for cell quality control
-[Cell quality control](./QualityControl/Septum_QC.html)  
+[Cell quality control](./QualityControl/Septum_QC_v2.html)  
